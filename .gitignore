@@ -1,5 +1,8 @@
 *.class
+<<<<<<< HEAD
 .svn/
+=======
+>>>>>>> 76bdfb34eac781e16c2997334d16aba2685fc061
 
 # Package Files #
 *.jar
